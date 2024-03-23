@@ -1,3 +1,3 @@
-# Memories
+# Mern-Food-Ordering-App
 
- Full Stack MERN Social Media App 
+ Mern-Food-Ordering-App
